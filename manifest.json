@@ -1,0 +1,35 @@
+{
+    "name": "Unducked",
+    "description": "Use Duck's Bangs from unduck.link with default new-tab page",
+    "version": "0.0.1",
+    "homepage_url": "https://jakubgrzywacz.pl/unducked",
+    "icons": {
+        "16": "img/icon-16.png",
+        "32": "img/icon-32.png",
+        "48": "img/icon-48.png",
+        "128": "img/icon-128.png"
+    },
+    "manifest_version": 3,
+    "action": {
+        "default_title": "Unducked",
+        "default_popup": "index.html"
+    },
+    "chrome_settings_overrides": {
+        "search_provider": {
+            "name": "Unduck",
+            "keyword": "unduck.link",
+            "search_url": "https://unduck.link?q={searchTerms}",
+            "favicon_url": "https://jakubgrzywacz.pl/unducked/favicon.ico",
+            "suggest_url": "https://unduck.link?q={searchTerms}",
+            "encoding": "UTF-8",
+            "is_default": true
+        }
+    },
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "offline_enabled": true,
+    "optional_host_permissions": [
+        "file://*/*"
+    ]
+}
