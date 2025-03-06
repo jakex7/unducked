@@ -35,7 +35,7 @@ For a full list of Bangs, check out [DuckDuckGo's official Bangs list](https://d
 
 ## Special Thanks
 
-A special thanks to Theo (t3.gg) for creating unduck.link, which powers Unducked.
+A special thanks to [Theo (t3.gg)](https://t3.gg/) for creating [unduck.link](https://unduck.link/), which powers Unducked.
 
 ## License
 
