@@ -1,5 +1,5 @@
 {
-    "name": "Unducked",
+    "name": "Unducked Bangs",
     "description": "Use Duck's Bangs from unduck.link with default new-tab page",
     "version": "0.0.1",
     "homepage_url": "https://jakubgrzywacz.pl/unducked",
@@ -11,7 +11,7 @@
     },
     "manifest_version": 3,
     "action": {
-        "default_title": "Unducked",
+        "default_title": "Unducked Bangs",
         "default_popup": "index.html"
     },
     "chrome_settings_overrides": {

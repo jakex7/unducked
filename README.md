@@ -1,8 +1,8 @@
-# Unducked
+# Unducked Bangs
 
 <p align="center"><img src="img/icon-128.png" width="128" alt="Unducked logo" /></p>
 
-**Unducked** is a lightweight, open-source Chrome extension that enhances your search engine with DuckDuckGo-style Bangs (`!` shortcuts) while keeping default new tab page. Enjoy the power of Bangs without switching search engines!
+**Unducked Bangs** is a lightweight, open-source Chrome extension that enhances your search engine with DuckDuckGo-style Bangs (`!` shortcuts) while keeping default new tab page. Enjoy the power of Bangs without switching search engines!
 
 ## Features
 
@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-💡 **Unducked** makes searching smarter and faster. Give it a try and supercharge your searches today!
+💡 **Unducked Bangs** makes searching smarter and faster. Give it a try and supercharge your searches today!
